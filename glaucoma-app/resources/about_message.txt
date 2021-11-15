@@ -1,0 +1,4 @@
+<p>The <b>Glaucoma Detection</b> software is made for graduation project in Kafr Ash Shaykh University (<b>KSH University</b>).</p>
+<p>It has <b>two neural networks</b> for detection and it can create <b>manual masks<\b>.</p>
+<p>Made by: <b>Aalaa Ibrahim</b></p>
+<p>Supervised by: <b>Dr. Ahmed Elashry</b></p>
