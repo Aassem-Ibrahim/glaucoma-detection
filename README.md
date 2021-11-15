@@ -16,6 +16,7 @@ Python GUI to detect Glaucoma in fundus images
 The app can have as many different layers
 
 
+
 TODO:
   1. Save/Load projects
   2. Add Ellipse instead of circle to get accurate results
